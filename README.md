@@ -3,7 +3,7 @@
 
 :sparkles: Back.js: MVC Framework for Node.js written in Typescript and built on top of Express.js :sparkles:
 
-[![Build Status](https://travis-ci.org/bougarfaoui/back.svg?branch=master)](https://travis-ci.org/bougarfaoui/back)
+[![Build Status](https://travis-ci.org/santojon/back.svg?branch=master)](https://travis-ci.org/santojon/back)
 
 
 <p align="center">
