@@ -20,10 +20,10 @@
         ],
         "quotemark": [
             true,
-            "double"
+            "single"
         ],
         "semicolon": [
-            true,
+            false,
             "always"
         ],
         "triple-equals": [
@@ -65,10 +65,10 @@
         ],
         "quotemark": [
             true,
-            "double"
+            "single"
         ],
         "semicolon": [
-            true,
+            false,
             "always"
         ],
         "triple-equals": [
